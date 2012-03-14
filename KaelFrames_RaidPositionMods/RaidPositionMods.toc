@@ -1,0 +1,11 @@
+## Interface: 40300
+## Title: KaelFrames [|cff6994B9Raid Position Mods|r]
+## Notes: Under construction.
+## Author: Kael
+## Version: 0.0.1
+## Dependencies: KaelFrames
+## X-Child-Of: KaelFrames
+
+embeds.xml
+
+RaidPositionMods.lua

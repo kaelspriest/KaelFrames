@@ -1,0 +1,18 @@
+## Interface: 40300
+## Title: KaelFrames
+## Notes: Under construction.
+## Author: Kael
+## Version: 0.0.1
+## SavedVariables: KaelFramesDB
+## OptionalDeps: Ace3, LibSharedMedia-3.0
+## X-Embeds: Ace3, LibSharedMedia-3.0
+## X-Category: UnitFrame
+
+KaelFrames.xml
+
+init.lua
+defaults.lua
+lib.lua
+modulehandler.lua
+frames.lua
+KaelFrames.lua

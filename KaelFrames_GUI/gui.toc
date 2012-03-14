@@ -1,0 +1,18 @@
+## Interface: 40300
+## Title: KaelFrames [|cff6994B9GUI|r]
+## Notes: Under construction.
+## Author: Kael
+## Version: 0.0.1
+## Dependencies: KaelFrames
+## X-Child-Of: KaelFrames
+
+embeds.xml
+
+locales.xml
+
+lib.lua
+modulehandler.lua
+tree.lua
+maintab.lua
+subtab.lua
+gui.lua
